@@ -26,13 +26,20 @@ img {
  
 }
 
-.current a {
+.current a{
     color: black;
 }
 
 .p-header {
-    color: grey;
-    border: #BFBEBC 1px solid;
+    color:  #999999;
+    border:#d0d3d8 1px solid;
     text-decoration: none;
-    background-color: #BFBEBC;
+    background-color: #d9d9d9;
+    padding: 2px;
+    margin: 2px;
+}
+
+.p-nav {
+    padding-top: 10px;
+    padding-bottom: 25px;
 }
