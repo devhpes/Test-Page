@@ -1,3 +1,6 @@
+/* CSS For Styling */
+
+/* CSS For Box Model Styling */
 .container {
     width: 400px;
     display: grid;
@@ -8,17 +11,20 @@
 
 }
 
+/* CSS For Image Customizations */
 img {
     width: 300px;
     height: 250px;
     display: inline-block;
 }
 
+/* CSS For Styling To Navigation */
 .main-header {
    margin-left: 200px;
    padding-top: 10px;
 }
 
+/* CSS For Styling Text Inside Navigation */
 .main-header a {
     text-decoration: none;
     color: grey;
@@ -26,10 +32,7 @@ img {
  
 }
 
-.current a{
-    color: black;
-}
-
+/* CSS For Styling Navigation Below Images */
 .p-header {
     color:  #999999;
     border:#d0d3d8 1px solid;
@@ -39,6 +42,7 @@ img {
     margin: 2px;
 }
 
+/* CSS For Styling Navigation Below Images */
 .p-nav {
     padding-top: 10px;
     padding-bottom: 25px;
